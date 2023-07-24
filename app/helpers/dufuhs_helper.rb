@@ -1,0 +1,2 @@
+module DufuhsHelper
+end
